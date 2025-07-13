@@ -11,6 +11,10 @@ This Version is a build with new library for working on Orange Pi 5 MAX
 ## License 
 [talKKonnect](http://www.talkkonnect.com) is open source and available under the MPL V2.00 license.
 
+## GPIO Notes to Demonstrate it is working
+GPIO Physical Pin 7 For TX When Grounded
+GPIO Physical Pin 23 For RX LED (Voice Activity)
+
 <suvir@talkkonnect.com> Updated 13/07/2025 talkkonnect orangepimax-2.43.03 version is the latest release as of this writing.
 
 # tk-opi5max
